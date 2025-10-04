@@ -9,3 +9,4 @@ Git exercises
 <img width="532" height="91" alt="image" src="https://github.com/user-attachments/assets/14a97c90-8a9c-4865-b49e-14866f006dd2" />
 <img width="506" height="75" alt="image" src="https://github.com/user-attachments/assets/3b3e145f-b607-4dee-8190-25135a592268" />
 <img width="531" height="71" alt="image" src="https://github.com/user-attachments/assets/61a13549-5037-44a0-a10b-c0cbe03e5115" />
+<img width="589" height="71" alt="image" src="https://github.com/user-attachments/assets/b9fabd2c-5ed6-441f-8690-5592825cfa25" />
